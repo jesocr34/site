@@ -1,0 +1,12 @@
+body {
+width : 80%;
+margin : auto; 
+background : grey
+}
+
+h1 {
+color: red;
+background : yellow;
+text-align : center;
+font-family: cursive;
+}
