@@ -10,3 +10,13 @@ background : yellow;
 text-align : center;
 font-family: cursive;
 }
+/* La je mets sans puces, mais il existe plusieurs Style de puces ==> */
+.SansPuces {
+	list-style-type: none;
+	
+}
+
+.Pouces{
+	
+	list-style-type: "\1F44D"
+}
